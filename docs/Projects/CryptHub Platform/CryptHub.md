@@ -9,7 +9,7 @@
 - `Hackers` looking for better [[communications]]
 
 ### [[CryptHub]] Features:
-- [[Chat]]
+- [[docs/Projects/CryptHub Platform/CryptHub Features/CryptHub Collaboration/CryptHub Communication/Chat]]
 - [[Project Management]]
 
 

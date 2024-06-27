@@ -2,7 +2,7 @@
 
 ## [[CryptHub Features]]
 ### [[Collaboration Features]]
-- [ ] [[Chat]] `System`
+- [ ] [[docs/Projects/CryptHub Platform/CryptHub Features/CryptHub Collaboration/CryptHub Communication/Chat]] `System`
 - [ ] 
 - [ ] [[Project Management]] `Features`
   - [ ] 

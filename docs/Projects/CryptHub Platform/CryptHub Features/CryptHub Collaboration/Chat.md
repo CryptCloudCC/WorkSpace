@@ -1,4 +1,4 @@
-# [[Chat]]
+# [[docs/Projects/CryptHub Platform/CryptHub Features/CryptHub Collaboration/CryptHub Communication/Chat]]
 
 ## Uses [[CryptDB]]
 
