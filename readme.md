@@ -1,6 +1,6 @@
 <img src="attachments/foam-icon.png" width=100 align="left">
 
-# [[CryptCloud]]
+# CryptCloud
 
 **👋 Welcome to [[CryptCloud]]'s Knowledge Base!**
 
