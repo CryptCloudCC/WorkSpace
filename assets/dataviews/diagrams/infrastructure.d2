@@ -1,0 +1,44 @@
+CryptHub Platform: "" {
+    explanation: |md
+    # `CryptHub` **Platform**
+    ## An `Integrated Hacking Environment`
+    - Features, Integrations, and Applications
+    |
+
+}
+
+feature: Feature {
+    style.multiple: true
+    shape: step
+}
+
+feature-list: {
+    feature -> CryptDB Features
+    feature -> CryptBucket Feature
+}
+
+CryptHub Features: "Feature" {
+    explanation: |md
+    # `CryptHub` **Features**
+    |
+    feature-list: {
+        feature -> CryptDB Features
+        feature -> CryptBucket Feature
+    }
+}
+
+CryptDB Feature: "Feature" {
+    explanation: |md
+    # `CryptDB` **Feature**
+    ## `CryptDB` serves as the **primary database** for the `CryptHub` platform.
+    |
+
+}
+
+
+CryptBucket Feature: "Feature" {
+    explanation: |md
+    # `CryptDB` **Feature**
+    ## `CryptDB` serves as the **primary database** for the `CryptHub` platform.
+    |
+}
