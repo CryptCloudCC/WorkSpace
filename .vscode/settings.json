@@ -18,5 +18,17 @@
     "_site/**": true
   },
   "files.insertFinalNewline": true,
-  "markdown.styles": [".vscode/custom-tag-style.css"]
+  "markdown.styles": [
+    ".vscode/custom-tag-style.css"
+  ],
+  "sqltools.connections": [
+    {
+      "name": "duck",
+      "accessMode": "Read/Write",
+      "previewLimit": 50,
+      "driver": "DuckDB",
+      "databaseFilePath": "/media/user/hackin/WorkSpace/documentation/assets/dataviews/database/duckdb/duck.db"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
 }
