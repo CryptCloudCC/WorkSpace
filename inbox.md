@@ -1,3 +1,3 @@
 # Inbox
 
-- Chat Features?
+- [[Chat]] Features?
