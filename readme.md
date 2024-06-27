@@ -1,8 +1,8 @@
 <img src="attachments/foam-icon.png" width=100 align="left">
 
-# Foam
+# [[CryptCloud]]
 
-**👋 Welcome to your new Foam Knowledge Base!**
+**👋 Welcome to [[CryptCloud]]'s Knowledge Base!**
 
 ## Getting started
 
