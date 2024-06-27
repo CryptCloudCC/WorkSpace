@@ -2,8 +2,8 @@
 
 ## Features
 
-### Collaboration
-- [ ] [[Chat]]
+### [[Collaboration Features]]
+- [ ] [[Chat]] `System`
 - [ ] 
 - [ ] [[Project Management]]
   - [ ] 
