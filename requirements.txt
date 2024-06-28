@@ -1,4 +1,0 @@
-surrealdb
-reflex
-litestar
-dotenv
