@@ -3,6 +3,9 @@
 # CryptCloud WorkSpace
 **👋 Welcome to [[CryptCloud]]'s Knowledge Base!**
 
+## [[CryptCloud Team]]
+---
+
 ## [[CryptCloud Projects]]
 ---
 ### [[CryptHub]]
