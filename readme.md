@@ -1,4 +1,4 @@
-<img src="attachments/foam-icon.png" width=100 align="left">
+<img src="resources/brand/png/logo-color.png" width=100 align="left">
 
 # CryptCloud WorkSpace
 **👋 Welcome to [[CryptCloud]]'s Knowledge Base!**
