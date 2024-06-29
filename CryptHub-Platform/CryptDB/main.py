@@ -1,5 +1,0 @@
-
-
-from database
-
-def main():
