@@ -12,7 +12,7 @@
 ### [[CryptHub]] Features:
 - [[docs/Projects/CryptHub Platform/CryptHub Features/CryptHub Collaboration/CryptHub Communication/Chat]]
 - [[Project Management]]
-
+- [[Infrastructure Management]] using [[CryptDeploy]]
 
 ## [[CryptHub Components]] 
 See the [[CryptHub Components]] page to see the Core Components Maintained By [[CryptCloud]]

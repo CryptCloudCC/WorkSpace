@@ -1,6 +1,6 @@
 # CryptCloud Projects | Open Source Projects Managed by [[CryptCloud]]
 
-## [[CryptCloud]]
+## [[CryptHub]] Platform
 
 ## [[VSHack]]
 **Not really working on this at the moment** 
